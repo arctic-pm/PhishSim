@@ -6,16 +6,16 @@
 
 ## 🚀 Features
 
-*  Create and manage phishing campaigns
-*  Send tracked phishing emails
-*  Track email opens with pixel-based tracking
-*  Track link clicks and log timestamps
-*  Dashboard for campaign analytics
-*  Post-campaign educational feedback
+* Create and manage phishing campaigns
+* Send tracked phishing emails
+* Track email opens with pixel-based tracking
+* Track link clicks and log timestamps
+* Dashboard for campaign analytics
+* Post-campaign educational feedback
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Frontend:**
 
@@ -34,9 +34,6 @@
 ## 🗂️ Project Structure
 
 ```
-## 🗂️ Project Structure
-
-``
 PhishSim/
 ├── assets/                   # Screenshots or static files
 ├── backend/
@@ -69,8 +66,6 @@ PhishSim/
 └── README.md
 ```
 
-```
-
 ---
 
 ## ⚙️ How It Works
@@ -88,7 +83,7 @@ PhishSim/
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ### 📊 Dashboard Overview
 
